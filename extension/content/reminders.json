@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "stoic": [
+    { "id": "judgement-not-event", "text": "What unsettles you is often the view you take of things, not the things themselves." },
+    { "id": "yours-to-choose", "text": "Your attention and your response are yours to choose." },
+    { "id": "one-thing-well", "text": "Do the task in front of you, and do it well." },
+    { "id": "let-the-rest-go", "text": "Hold firmly what is in your control. Hold lightly what is not." },
+    { "id": "pause-then-act", "text": "A short pause leaves room for a better choice." },
+    { "id": "act-with-virtue", "text": "Whatever happens, you can meet it with wisdom, courage, justice and temperance." },
+    { "id": "today-is-enough", "text": "This day is enough to practise in. Begin where you are." }
+  ],
+  "meeting": [
+    { "id": "listen-first", "text": "Listen to understand before responding" },
+    { "id": "speak-plainly", "text": "Say what you mean, briefly and kindly." },
+    { "id": "ideas-not-people", "text": "Question the idea, respect the person." },
+    { "id": "own-your-part", "text": "Your part is your preparation and your conduct. The outcome is shared." },
+    { "id": "steady-voice", "text": "If the room grows heated, slow your voice and your breath." },
+    { "id": "ask-one-more", "text": "Before you disagree, ask one more question." }
+  ]
+}

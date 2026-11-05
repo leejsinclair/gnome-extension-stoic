@@ -1,0 +1,8 @@
+{
+  "uuid": "stoic-companion@leejsinclair.github.io",
+  "name": "Stoic Companion",
+  "description": "A quiet Stoic sidebar with The Pause and daily practice. Local only.",
+  "shell-version": ["50", "51"],
+  "settings-schema": "org.gnome.shell.extensions.stoic-companion",
+  "url": "https://github.com/leejsinclair/gnome-extension-stoic"
+}

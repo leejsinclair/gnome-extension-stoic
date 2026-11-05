@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "virtues": [
+    {
+      "id": "wisdom",
+      "name": "Wisdom",
+      "definition": "Seeing things as they are, and telling what is yours to choose from what is not.",
+      "prompts": [
+        "What here is in your control, and what is not?",
+        "What would you see if you set your first impression aside?",
+        "Which choice today deserves a moment of thought?"
+      ]
+    },
+    {
+      "id": "courage",
+      "name": "Courage",
+      "definition": "Acting rightly in the face of fear, pain or difficulty.",
+      "prompts": [
+        "Where might fear decide for you today?",
+        "What hard thing is worth doing anyway?",
+        "Where can you speak or act honestly, even if it is uncomfortable?"
+      ]
+    },
+    {
+      "id": "justice",
+      "name": "Justice",
+      "definition": "Treating others fairly and acting for the common good.",
+      "prompts": [
+        "Who could you treat with more fairness or patience today?",
+        "How might your choices today serve the people around you?",
+        "Whose point of view have you not yet considered?"
+      ]
+    },
+    {
+      "id": "temperance",
+      "name": "Temperance",
+      "definition": "Choosing measure and self-restraint in what you want, say and do.",
+      "prompts": [
+        "Where would a little restraint serve you today?",
+        "What is enough, here?",
+        "What can you let pass without reacting?"
+      ]
+    }
+  ]
+}

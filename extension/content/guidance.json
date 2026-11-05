@@ -1,0 +1,109 @@
+{
+    "version": 1,
+    "categories": [
+        {
+            "id": "anger",
+            "label": "Anger",
+            "acknowledge": "Anger is a natural response. You can feel it and still choose what you do next.",
+            "judgement": "What happened, and what judgement am I adding to it, such as \"this is unfair\" or \"they meant to slight me\"?",
+            "control": "Other people's words and actions are not mine to command. My reply, my tone and my timing are.",
+            "virtue": "Temperance gives anger room to cool. Justice asks what a fair response would look like.",
+            "responses": [
+                { "id": "pause-before-replying", "text": "Pause before replying" },
+                { "id": "ask-to-understand", "text": "Ask one question to understand" },
+                { "id": "return-later", "text": "Come back to it once the heat has passed" }
+            ]
+        },
+        {
+            "id": "anxiety",
+            "label": "Anxiety",
+            "acknowledge": "Anxiety is a natural response to uncertainty. It often means something matters to you.",
+            "judgement": "Am I responding to what is happening now, or to a story about what might happen?",
+            "control": "How things turn out is not fully in my hands. My preparation and my next step are.",
+            "virtue": "Courage lets me act while the feeling is still present. Wisdom separates the likely from the merely possible.",
+            "responses": [
+                { "id": "take-next-step", "text": "Take the next small step" },
+                { "id": "name-what-is-known", "text": "Write down what I actually know" },
+                { "id": "breathe-slowly", "text": "Take three slow breaths" }
+            ]
+        },
+        {
+            "id": "frustration",
+            "label": "Frustration",
+            "acknowledge": "Frustration is a natural response when something blocks the way. It shows you care about the outcome.",
+            "judgement": "Is the obstacle the problem, or my judgement that things ought to have gone otherwise?",
+            "control": "The obstacle may not move. How I approach it, and whether I try another way, is mine to choose.",
+            "virtue": "Wisdom looks for what the obstacle allows. Temperance keeps the effort steady.",
+            "responses": [
+                { "id": "try-another-way", "text": "Try a different approach" },
+                { "id": "step-away-briefly", "text": "Step away for a few minutes" },
+                { "id": "ask-for-help", "text": "Ask someone for help" }
+            ]
+        },
+        {
+            "id": "conflict",
+            "label": "Conflict",
+            "acknowledge": "Tension with another person is a natural part of working and living together.",
+            "judgement": "What did they actually say or do, and what am I assuming about why?",
+            "control": "Their view and their choices are theirs. How I listen and how I speak are mine.",
+            "virtue": "Justice asks me to treat them fairly. Courage lets me say plainly what matters.",
+            "responses": [
+                { "id": "listen-first", "text": "Listen to understand before responding" },
+                { "id": "state-my-view-calmly", "text": "State my view calmly and once" },
+                { "id": "look-for-common-ground", "text": "Look for one point we agree on" }
+            ]
+        },
+        {
+            "id": "overwhelm",
+            "label": "Overwhelm",
+            "acknowledge": "Feeling overwhelmed is a natural response when a lot asks for attention at once.",
+            "judgement": "Am I seeing everything as urgent at once, when only some of it is?",
+            "control": "I cannot do everything at the same time. I can choose the one thing that comes next.",
+            "virtue": "Wisdom sorts what matters from what is noise. Temperance keeps me to one thing at a time.",
+            "responses": [
+                { "id": "choose-one-thing", "text": "Choose the one thing that matters most now" },
+                { "id": "write-it-down", "text": "Write everything down, then pick one" },
+                { "id": "say-not-now", "text": "Say \"not now\" to something" }
+            ]
+        },
+        {
+            "id": "self-criticism",
+            "label": "Self-criticism",
+            "acknowledge": "Being hard on yourself is a natural response when you care about doing well.",
+            "judgement": "Am I judging the action, or passing a verdict on who I am?",
+            "control": "What is done is done. What I learn from it and what I do next are mine.",
+            "virtue": "Justice includes fairness to myself. Wisdom looks for the lesson rather than the blame.",
+            "responses": [
+                { "id": "speak-as-to-a-friend", "text": "Speak to myself as I would to a friend" },
+                { "id": "name-one-lesson", "text": "Name one thing to do differently next time" },
+                { "id": "make-amends", "text": "Make amends where it is needed" }
+            ]
+        },
+        {
+            "id": "disappointment",
+            "label": "Disappointment",
+            "acknowledge": "Disappointment is a natural response when something you hoped for does not happen.",
+            "judgement": "Was the outcome ever fully mine to decide, or did I treat a hope as a promise?",
+            "control": "The result has happened. How I meet it, and what I aim for next, remain with me.",
+            "virtue": "Courage lets me accept what happened. Wisdom asks what is still worth pursuing.",
+            "responses": [
+                { "id": "acknowledge-the-loss", "text": "Let myself feel it for a moment" },
+                { "id": "notice-what-remains", "text": "Notice what is still within reach" },
+                { "id": "set-next-aim", "text": "Set one small aim for what comes next" }
+            ]
+        },
+        {
+            "id": "general-disturbance",
+            "label": "General disturbance",
+            "acknowledge": "Sometimes the mind is unsettled without a clear reason. That is natural too.",
+            "judgement": "Is there a thought underneath this, a judgement I have not yet noticed?",
+            "control": "I cannot always choose how I feel. I can choose where to put my attention now.",
+            "virtue": "Wisdom helps me look closely. Temperance helps me wait without being carried away.",
+            "responses": [
+                { "id": "breathe-slowly", "text": "Take three slow breaths" },
+                { "id": "return-to-the-task", "text": "Return to the task in front of me" },
+                { "id": "take-a-short-walk", "text": "Take a short walk" }
+            ]
+        }
+    ]
+}

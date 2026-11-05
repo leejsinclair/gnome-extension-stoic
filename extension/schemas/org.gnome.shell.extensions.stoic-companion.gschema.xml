@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- contracts/gsettings.md. Meeting mode, rotation, animation and journal text are never stored here
+     (FR-013, FR-014, FR-039, FR-046). -->
+<schemalist>
+  <schema id="org.gnome.shell.extensions.stoic-companion" path="/org/gnome/shell/extensions/stoic-companion/">
+    <key name="sidebar-position" type="s">
+      <choices>
+        <choice value="left"/>
+        <choice value="right"/>
+      </choices>
+      <default>'right'</default>
+      <summary>Sidebar position</summary>
+      <description>The screen edge the sidebar is attached to.</description>
+    </key>
+    <key name="sidebar-width" type="i">
+      <range min="200" max="480"/>
+      <default>270</default>
+      <summary>Sidebar width</summary>
+      <description>Width in pixels. At runtime it is also capped at half the work-area width.</description>
+    </key>
+    <key name="background-opacity" type="d">
+      <range min="0.5" max="1.0"/>
+      <default>0.94</default>
+      <summary>Background opacity</summary>
+      <description>Opacity of the sidebar background only; text stays fully opaque.</description>
+    </key>
+    <key name="color-scheme" type="s">
+      <choices>
+        <choice value="system"/>
+        <choice value="light"/>
+        <choice value="dark"/>
+      </choices>
+      <default>'system'</default>
+      <summary>Colour scheme</summary>
+      <description>Follow the system style, or force light or dark.</description>
+    </key>
+    <key name="sidebar-hidden" type="b">
+      <default>false</default>
+      <summary>Sidebar hidden</summary>
+      <description>Whether the user has hidden the sidebar. Restored across sessions.</description>
+    </key>
+    <key name="toggle-sidebar" type="as">
+      <default>[]</default>
+      <summary>Show or hide the sidebar</summary>
+      <description>Keyboard shortcut. Empty by default.</description>
+    </key>
+    <key name="toggle-meeting-mode" type="as">
+      <default>[]</default>
+      <summary>Turn Meeting mode on or off</summary>
+      <description>Keyboard shortcut. Empty by default.</description>
+    </key>
+    <key name="open-pause" type="as">
+      <default>[]</default>
+      <summary>Open The Pause</summary>
+      <description>Keyboard shortcut. Empty by default.</description>
+    </key>
+    <key name="focus-sidebar" type="as">
+      <default>[]</default>
+      <summary>Move keyboard focus to the sidebar</summary>
+      <description>Keyboard shortcut. Empty by default.</description>
+    </key>
+    <key name="morning-reminder-enabled" type="b">
+      <default>false</default>
+      <summary>Morning reminder</summary>
+      <description>Whether to send a reminder for the morning practice.</description>
+    </key>
+    <key name="morning-reminder-time" type="s">
+      <default>'08:00'</default>
+      <summary>Morning reminder time</summary>
+      <description>HH:MM, 24-hour local time. Values that are not valid HH:MM are treated as disabled.</description>
+    </key>
+    <key name="evening-reminder-enabled" type="b">
+      <default>false</default>
+      <summary>Evening reminder</summary>
+      <description>Whether to send a reminder for the evening reflection.</description>
+    </key>
+    <key name="evening-reminder-time" type="s">
+      <default>'20:00'</default>
+      <summary>Evening reminder time</summary>
+      <description>HH:MM, 24-hour local time. Values that are not valid HH:MM are treated as disabled.</description>
+    </key>
+  </schema>
+</schemalist>

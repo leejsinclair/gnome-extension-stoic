@@ -1,0 +1,1 @@
+stoic-companion.spec.md

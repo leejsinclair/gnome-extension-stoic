@@ -1,0 +1,269 @@
+/* Stoic Companion
+ *
+ * Sizes are in em so the desktop text-scaling factor applies (FR-048).
+ * The background opacity is set inline as an rgba background-color by ui/sidebar.js,
+ * so text stays fully opaque (R11). Light and dark are style classes, chosen from the
+ * color-scheme setting.
+ * Nothing in this file moves: no motion properties are declared (FR-013).
+ */
+
+/* ---------- Sidebar ---------- */
+
+.stoic-sidebar {
+    padding: 1.2em 1em;
+    spacing: 1em;
+    font-size: 1em;
+    color: #f2f2f2;
+    background-color: rgba(36, 36, 36, 0.94);
+}
+
+.stoic-sidebar.stoic-sidebar-light {
+    color: #1f1f1f;
+    background-color: rgba(250, 250, 250, 0.94);
+}
+
+.stoic-sidebar.stoic-sidebar-dark {
+    color: #f2f2f2;
+    background-color: rgba(36, 36, 36, 0.94);
+}
+
+.stoic-section {
+    padding: 0.6em 0.7em;
+    spacing: 0.35em;
+    border-radius: 0.6em;
+}
+
+.stoic-section:focus {
+    box-shadow: inset 0 0 0 0.15em #3584e4;
+}
+
+.stoic-section-title {
+    font-size: 0.8em;
+    font-weight: bold;
+    letter-spacing: 0.04em;
+    color: #b0b0b0;
+}
+
+.stoic-sidebar-light .stoic-section-title {
+    color: #5e5e5e;
+}
+
+.stoic-section-body {
+    font-size: 1em;
+}
+
+.stoic-section-detail {
+    font-size: 0.9em;
+    color: #c8c8c8;
+}
+
+.stoic-sidebar-light .stoic-section-detail {
+    color: #4a4a4a;
+}
+
+/* 1. Today's Virtue */
+.stoic-section-virtue .stoic-virtue-name {
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+/* 2. A Thought to Carry */
+.stoic-section-passage .stoic-passage-text {
+    font-style: italic;
+    font-size: 1em;
+}
+
+.stoic-section-passage .stoic-passage-cite {
+    font-size: 0.85em;
+    color: #b0b0b0;
+}
+
+.stoic-sidebar-light .stoic-section-passage .stoic-passage-cite {
+    color: #5e5e5e;
+}
+
+/* 3. Stoic Reminder */
+.stoic-section-reminder .stoic-reminder-text {
+    font-size: 1em;
+}
+
+/* 4. The Pause */
+.stoic-section-pause .stoic-pause-button {
+    padding: 0.6em 1em;
+    border-radius: 0.6em;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #3a3a3a;
+}
+
+.stoic-section-pause .stoic-pause-button:hover {
+    background-color: #474747;
+}
+
+.stoic-section-pause .stoic-pause-button:active {
+    background-color: #545454;
+}
+
+.stoic-section-pause .stoic-pause-button:focus {
+    box-shadow: inset 0 0 0 0.15em #3584e4;
+}
+
+.stoic-sidebar-light .stoic-section-pause .stoic-pause-button {
+    color: #1f1f1f;
+    background-color: #e4e4e4;
+}
+
+.stoic-sidebar-light .stoic-section-pause .stoic-pause-button:hover {
+    background-color: #d8d8d8;
+}
+
+.stoic-sidebar-light .stoic-section-pause .stoic-pause-button:active {
+    background-color: #cccccc;
+}
+
+/* 5. Daily Practice Status */
+.stoic-section-practice .stoic-chips {
+    spacing: 0.5em;
+}
+
+.stoic-chip {
+    padding: 0.3em 0.7em;
+    border-radius: 1em;
+    font-size: 0.85em;
+    color: #f2f2f2;
+    background-color: #3a3a3a;
+}
+
+.stoic-chip.stoic-chip-in-progress {
+    background-color: #3d4a5c;
+}
+
+.stoic-chip.stoic-chip-completed {
+    background-color: #2f4f3a;
+}
+
+.stoic-sidebar-light .stoic-chip {
+    color: #1f1f1f;
+    background-color: #e4e4e4;
+}
+
+.stoic-sidebar-light .stoic-chip.stoic-chip-in-progress {
+    background-color: #d5e2f3;
+}
+
+.stoic-sidebar-light .stoic-chip.stoic-chip-completed {
+    background-color: #d4eadb;
+}
+
+.stoic-section-practice:hover {
+    background-color: rgba(255, 255, 255, 0.06);
+}
+
+.stoic-sidebar-light .stoic-section-practice:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+/* ---------- Flow dialog ---------- */
+
+.stoic-flow-dialog {
+    min-width: 28em;
+    max-width: 36em;
+    spacing: 1em;
+}
+
+.stoic-flow-header {
+    spacing: 0.8em;
+}
+
+.stoic-flow-title {
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.stoic-flow-header-button {
+    font-size: 0.9em;
+    padding: 0.3em 0.8em;
+}
+
+.stoic-flow-intention {
+    font-size: 0.95em;
+    font-style: italic;
+    padding: 0.5em 0.7em;
+    border-radius: 0.5em;
+    background-color: rgba(127, 127, 127, 0.15);
+}
+
+.stoic-flow-prompt {
+    font-size: 1.05em;
+    padding-bottom: 0.3em;
+}
+
+.stoic-flow-guidance {
+    font-size: 0.95em;
+    spacing: 0.4em;
+}
+
+.stoic-flow-guidance-line {
+    font-size: 0.95em;
+}
+
+.stoic-flow-field {
+    spacing: 0.4em;
+}
+
+.stoic-flow-field-label {
+    font-size: 0.9em;
+    font-weight: bold;
+}
+
+.stoic-flow-entry {
+    min-height: 4em;
+    padding: 0.4em 0.6em;
+}
+
+.stoic-flow-options {
+    spacing: 0.3em;
+}
+
+.stoic-flow-option {
+    padding: 0.4em 0.8em;
+    border-radius: 0.5em;
+    text-align: left;
+}
+
+.stoic-flow-option:checked {
+    font-weight: bold;
+    box-shadow: inset 0 0 0 0.15em #3584e4;
+}
+
+.stoic-flow-option:focus {
+    box-shadow: inset 0 0 0 0.15em #3584e4;
+}
+
+.stoic-flow-passage {
+    spacing: 0.3em;
+    padding: 0.6em 0.8em;
+    border-radius: 0.5em;
+    background-color: rgba(127, 127, 127, 0.12);
+}
+
+.stoic-flow-passage-text {
+    font-style: italic;
+}
+
+.stoic-flow-passage-cite {
+    font-size: 0.85em;
+}
+
+.stoic-flow-chooser {
+    spacing: 0.8em;
+}
+
+.stoic-flow-chooser-button {
+    padding: 0.8em 1.2em;
+    font-size: 1.05em;
+}
+
+.stoic-flow-saved {
+    font-size: 0.9em;
+}

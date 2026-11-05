@@ -1,0 +1,45 @@
+{
+    "version": 1,
+    "sources": [
+        {
+            "id": "long-meditations-1862",
+            "author": "Marcus Aurelius",
+            "works": ["Meditations"],
+            "translation": "The Thoughts of the Emperor M. Aurelius Antoninus",
+            "translator": "George Long",
+            "edition": "Standard Ebooks, 2014 (spelling modernized): https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long",
+            "year": 1862,
+            "publicDomainBasis": "Published 1862; translator died 1879"
+        },
+        {
+            "id": "long-discourses-1877",
+            "author": "Epictetus",
+            "works": ["Discourses"],
+            "translation": "The Discourses of Epictetus, with the Encheiridion and Fragments",
+            "translator": "George Long",
+            "edition": "Standard Ebooks, 2020 (spelling modernized): https://standardebooks.org/ebooks/epictetus/discourses/george-long",
+            "year": 1877,
+            "publicDomainBasis": "Published 1877; translator died 1879"
+        },
+        {
+            "id": "long-enchiridion-1877",
+            "author": "Epictetus",
+            "works": ["Enchiridion"],
+            "translation": "The Discourses of Epictetus, with the Encheiridion and Fragments",
+            "translator": "George Long",
+            "edition": "Standard Ebooks Short Works, 2022 (spelling modernized): https://standardebooks.org/ebooks/epictetus/short-works/george-long",
+            "year": 1877,
+            "publicDomainBasis": "Published 1877; translator died 1879"
+        },
+        {
+            "id": "stewart-seneca-1889",
+            "author": "Seneca",
+            "works": ["On Anger", "On the Shortness of Life", "On Peace of Mind", "On Providence"],
+            "translation": "Minor Dialogues, Together with the Dialogue on Clemency",
+            "translator": "Aubrey Stewart",
+            "edition": "Standard Ebooks Dialogues, 2016 (spelling modernized): https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart",
+            "year": 1889,
+            "publicDomainBasis": "Published 1889; translator died 1918"
+        }
+    ]
+}

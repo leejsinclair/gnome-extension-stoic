@@ -1,0 +1,251 @@
+{
+    "version": 1,
+    "passages": [
+        {
+            "id": "meditations-2-1",
+            "kind": "quotation",
+            "text": "For we are made for cooperation, like feet, like hands, like eyelids, like the rows of the upper and lower teeth. To act against one another then is contrary to nature; and it is acting against one another to be vexed and to turn away.",
+            "sourceId": "long-meditations-1862",
+            "work": "Meditations",
+            "locator": "Book II, 1",
+            "virtueIds": [
+                "justice"
+            ],
+            "explanation": "Other people are kin, made to work together with us, so turning against them works against our own nature."
+        },
+        {
+            "id": "meditations-2-5",
+            "kind": "quotation",
+            "text": "Every moment think steadily as a Roman and a man to do what thou hast in hand with perfect and simple dignity, and feeling of affection, and freedom, and justice; and to give thyself relief from all other thoughts.",
+            "sourceId": "long-meditations-1862",
+            "work": "Meditations",
+            "locator": "Book II, 5",
+            "virtueIds": [
+                "justice",
+                "temperance"
+            ],
+            "explanation": "Give the task in front of you your whole and fair attention, and let the rest wait."
+        },
+        {
+            "id": "meditations-4-3",
+            "kind": "quotation",
+            "text": "For nowhere either with more quiet or more freedom from trouble does a man retire than into his own soul, particularly when he has within him such thoughts that by looking into them he is immediately in perfect tranquility; and I affirm that tranquility is nothing else than the good ordering of the mind.",
+            "sourceId": "long-meditations-1862",
+            "work": "Meditations",
+            "locator": "Book IV, 3",
+            "virtueIds": [
+                "wisdom",
+                "temperance"
+            ],
+            "explanation": "A quiet place is always available within, in the way we order our own thoughts."
+        },
+        {
+            "id": "meditations-5-1",
+            "kind": "quotation",
+            "text": "In the morning when thou risest unwillingly, let this thought be present—I am rising to the work of a human being.",
+            "sourceId": "long-meditations-1862",
+            "work": "Meditations",
+            "locator": "Book V, 1",
+            "virtueIds": [
+                "courage"
+            ],
+            "explanation": "On a reluctant morning, remember what the day is for."
+        },
+        {
+            "id": "meditations-6-2",
+            "kind": "quotation",
+            "text": "Let it make no difference to thee whether thou art cold or warm, if thou art doing thy duty; and whether thou art drowsy or satisfied with sleep; and whether ill-spoken of or praised; and whether dying or doing something else. For it is one of the acts of life, this act by which we die: it is sufficient then in this act also to do well what we have in hand.",
+            "sourceId": "long-meditations-1862",
+            "work": "Meditations",
+            "locator": "Book VI, 2",
+            "virtueIds": [
+                "courage"
+            ],
+            "explanation": "Comfort, praise and fatigue come and go; doing the present task well remains in reach."
+        },
+        {
+            "id": "meditations-6-6",
+            "kind": "quotation",
+            "text": "The best way of avenging thyself is not to become like the wrong doer.",
+            "sourceId": "long-meditations-1862",
+            "work": "Meditations",
+            "locator": "Book VI, 6",
+            "virtueIds": [
+                "justice",
+                "temperance"
+            ],
+            "explanation": "When wronged, the best answer is to keep your own character."
+        },
+        {
+            "id": "discourses-1-1",
+            "kind": "quotation",
+            "text": "What then should a man have in readiness in such circumstances? What else than this? What is mine, and what is not mine; and what is permitted to me, and what is not permitted to me.",
+            "sourceId": "long-discourses-1877",
+            "work": "Discourses",
+            "locator": "Book I, Chapter 1",
+            "virtueIds": [
+                "wisdom"
+            ],
+            "explanation": "The first question in any difficulty is what is ours to decide and what is not."
+        },
+        {
+            "id": "discourses-1-15",
+            "kind": "quotation",
+            "text": "Nothing great, said Epictetus, is produced suddenly, since not even the grape or the fig is. If you say to me now that you want a fig, I will answer to you that it requires time: let it flower first, then put forth fruit, and then ripen.",
+            "sourceId": "long-discourses-1877",
+            "work": "Discourses",
+            "locator": "Book I, Chapter 15",
+            "virtueIds": [
+                "temperance"
+            ],
+            "explanation": "Change in character takes time, as fruit does."
+        },
+        {
+            "id": "discourses-1-24",
+            "kind": "quotation",
+            "text": "It is circumstances (difficulties) which show what men are. Therefore when a difficulty falls upon you, remember that God, like a trainer of wrestlers, has matched you with a rough young man.",
+            "sourceId": "long-discourses-1877",
+            "work": "Discourses",
+            "locator": "Book I, Chapter 24",
+            "virtueIds": [
+                "courage"
+            ],
+            "explanation": "A hard situation can be met as training rather than only as a burden."
+        },
+        {
+            "id": "discourses-2-18",
+            "kind": "quotation",
+            "text": "Every habit and faculty is maintained and increased by the corresponding actions: the habit of walking by walking, the habit of running by running. If you would be a good reader, read; if a writer, write.",
+            "sourceId": "long-discourses-1877",
+            "work": "Discourses",
+            "locator": "Book II, Chapter 18",
+            "virtueIds": [
+                "temperance"
+            ],
+            "explanation": "We become what we repeatedly practise."
+        },
+        {
+            "id": "enchiridion-1",
+            "kind": "quotation",
+            "text": "Of things some are in our power, and others are not.",
+            "sourceId": "long-enchiridion-1877",
+            "work": "Enchiridion",
+            "locator": "Chapter 1",
+            "virtueIds": [
+                "wisdom"
+            ],
+            "explanation": "The opening distinction of Stoic practice: what is up to us and what is not."
+        },
+        {
+            "id": "enchiridion-5",
+            "kind": "quotation",
+            "text": "Men are disturbed not by the things which happen, but by the opinions about the things: for example, death is nothing terrible, for if it were, it would have seemed so to Socrates; for the opinion about death, that it is terrible, is the terrible thing.",
+            "sourceId": "long-enchiridion-1877",
+            "work": "Enchiridion",
+            "locator": "Chapter 5",
+            "virtueIds": [
+                "wisdom"
+            ],
+            "explanation": "What unsettles us is usually our judgement about an event, not the event itself."
+        },
+        {
+            "id": "enchiridion-8",
+            "kind": "quotation",
+            "text": "Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life.",
+            "sourceId": "long-enchiridion-1877",
+            "work": "Enchiridion",
+            "locator": "Chapter 8",
+            "virtueIds": [
+                "temperance",
+                "courage"
+            ],
+            "explanation": "Meeting events as they are, instead of as we wished, makes for a calmer life."
+        },
+        {
+            "id": "enchiridion-20",
+            "kind": "quotation",
+            "text": "Remember that it is not he who reviles you or strikes you, who insults you, but it is your opinion about these things as being insulting. When then a man irritates you, you must know that it is your own opinion which has irritated you. Therefore especially try not to be carried away by the appearance. For if you once gain time and delay, you will more easily master yourself.",
+            "sourceId": "long-enchiridion-1877",
+            "work": "Enchiridion",
+            "locator": "Chapter 20",
+            "virtueIds": [
+                "wisdom",
+                "temperance"
+            ],
+            "explanation": "An insult works through our own judgement, and a little time helps us choose a response."
+        },
+        {
+            "id": "on-anger-2-29",
+            "kind": "quotation",
+            "text": "The greatest remedy for anger is delay: beg anger to grant you this at the first, not in order that it may pardon the offence, but that it may form a right judgment about it:—if it delays, it will come to an end.",
+            "sourceId": "stewart-seneca-1889",
+            "work": "On Anger",
+            "locator": "Book II, Chapter 29",
+            "virtueIds": [
+                "temperance"
+            ],
+            "explanation": "Waiting before acting gives judgement a chance to catch up with feeling."
+        },
+        {
+            "id": "on-anger-3-12",
+            "kind": "quotation",
+            "text": "Let us put ourselves in the place of him with whom we are angry: at present an overweening conceit of our own importance makes us prone to anger, and we are quite willing to do to others what we cannot endure should be done to ourselves.",
+            "sourceId": "stewart-seneca-1889",
+            "work": "On Anger",
+            "locator": "Book III, Chapter 12",
+            "virtueIds": [
+                "justice"
+            ],
+            "explanation": "Seeing the situation from the other person’s side softens anger and makes us fairer."
+        },
+        {
+            "id": "on-anger-3-43",
+            "kind": "quotation",
+            "text": "Let us rather pass the little remnant of our lives in peace and quiet: may no one loathe us when we lie dead.",
+            "sourceId": "stewart-seneca-1889",
+            "work": "On Anger",
+            "locator": "Book III, Chapter 43",
+            "virtueIds": [
+                "justice"
+            ],
+            "explanation": "Life is short; spend it at peace with others."
+        },
+        {
+            "id": "shortness-of-life-1",
+            "kind": "quotation",
+            "text": "Thus it is: we do not receive a short life, but we make it a short one, and we are not poor in days, but wasteful of them.",
+            "sourceId": "stewart-seneca-1889",
+            "work": "On the Shortness of Life",
+            "locator": "Chapter 1",
+            "virtueIds": [
+                "wisdom",
+                "temperance"
+            ],
+            "explanation": "Life feels short mostly because of how we spend it."
+        },
+        {
+            "id": "peace-of-mind-11",
+            "kind": "quotation",
+            "text": "It is too late to school the mind to endurance of peril after peril has come.",
+            "sourceId": "stewart-seneca-1889",
+            "work": "On Peace of Mind",
+            "locator": "Chapter 11",
+            "virtueIds": [
+                "courage"
+            ],
+            "explanation": "Steadiness is prepared for in calm times, before it is needed."
+        },
+        {
+            "id": "providence-5",
+            "kind": "quotation",
+            "text": "Fire tries gold, misfortune tries brave men.",
+            "sourceId": "stewart-seneca-1889",
+            "work": "On Providence",
+            "locator": "Chapter 5",
+            "virtueIds": [
+                "courage"
+            ],
+            "explanation": "Hardship is where courage shows itself."
+        }
+    ]
+}
